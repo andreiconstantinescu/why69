@@ -6,8 +6,11 @@
   "dependencies": {
     "react": "^0.14.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "surge": "^0.17.7"
+  },
   "scripts": {
+    "deploy": "surge . -d why69.surge.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

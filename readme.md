@@ -150,7 +150,7 @@ marius: until you use that filter it's shit
 cp ~/Desktop/Screenshot.png .
 ```
 
-```
+```diff
 - <H1>WHY NOT?</H1>
 + <IMG SRC="Screenshot.png" />
 ```
@@ -165,7 +165,7 @@ anatol: but it works even in compatibility mode
 diana: =)))))
 diana: oh my god what is going on in here
 tvararu: of course, cuz I'm a god
-marius: <screenshot of source code displaying IMG tag>
+marius: <screenshot of source code containing IMG tag>
 marius: =)))))))))))))))
 tvararu: BRUV.css
 anatol: @tvararu... but what about SEO?
@@ -312,7 +312,7 @@ tvararu: gotta fix some stuff
 
 ```diff
 <!-- At the end of the file, of course. -->
-<META NAME=viewport CONTENT="width=device-width, initial-scale=1">
++ <META NAME=viewport CONTENT="width=device-width, initial-scale=1">
 ```
 
 ```
@@ -360,7 +360,7 @@ tvararu: so basically
 ```
 
 ```
-[x] add viewport = +3
+[x] fix content breaking viewport = +3
 [x] remove plugin = +1
 [x] meta viewport = +3
 [ ] fix tiny fonts = +19
@@ -394,7 +394,7 @@ dragos: well why??
 marius: just like every other programming language
 anatol: because floats
 tvararu: IEEE floating point standard
-anatol: <link to SO explanation>
+anatol: <link to StackOverflow explanation>
 dragos: I don't think python does that
 ```
 
@@ -427,7 +427,7 @@ diana: pagespeed insights
 tvararu: I don't think I can get 69 UX guise
 tvararu: maybe if I add an interstitial overlay...
 ilie: anyway, just finished reading, haven't laughed this hard in a while
-marius: either way, toasting in golden thread
+marius: toasting in golden thread
 marius: or rather... color: hotpink thread
 tvararu: yeah, one hell of a way to spend a friday night
 tvararu: k I give up

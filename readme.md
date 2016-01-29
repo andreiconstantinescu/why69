@@ -1,3 +1,7 @@
+TL;DR me and some friends (but mostly me) thought it would be funny to whip up the most abhorrent website we could think of. It's not that abhorrent and not that funny.
+
+---
+
 ```
 anatol: guys look at this:
 ```

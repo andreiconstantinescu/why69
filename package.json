@@ -10,7 +10,7 @@
     "surge": "^0.17.7"
   },
   "scripts": {
-    "deploy": "surge . -d why69.surge.sh",
+    "deploy": "surge . -d why69.com",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

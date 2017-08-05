@@ -2,6 +2,8 @@ TL;DR me and some friends (but mostly me) thought it would be funny to whip up t
 
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/andreiconstantinescu/why69.svg)](https://greenkeeper.io/)
+
 ```
 anatol: guys look at this:
 ```
